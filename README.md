@@ -10,7 +10,7 @@
 Pong is a classic arcade game where two players compete by controlling paddles to bounce a ball past their opponent. It's a test of reflexes and coordination, and now you can enjoy it on your computer!
 
 ## Features
-- **Two-Player Mode**: Challenge a friend or go solo against an AI opponent.
+- **Two-Player Mode**: Challenge a friend to play the game.
 - **Customizable Controls**: Control your paddle with ease using custom keybindings.
 - **Dynamic Ball Speed**: The ball starts slow and progressively speeds up, adding excitement.
 - **Interactive Scoreboard**: Keep track of scores with a built-in scoreboard.
